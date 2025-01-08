@@ -33,20 +33,8 @@ A simple and interactive weather app that displays current weather details like 
    cd weather-app
 3. Open index.html in your browser to start using the app.
 
-
-## File Structure
-├── index.html        # Main HTML file
-├── weather.css       # Styling for the app
-├── weather.js        # JavaScript for functionality
-├── rain.jpeg         # Default weather icon
-├── humidity.png      # Icon for humidity
-├── wind.png          # Icon for wind speed
-├── search.png        # Icon for search button
-
-## Future Enhancements 🚀
--> Integrate live weather data using an API (e.g., OpenWeatherMap).
--> Add error handling for invalid city names.
--> Make the app fully responsive for all device sizes.
+ 
+ 
 
 
 
